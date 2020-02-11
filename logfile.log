@@ -1,0 +1,33 @@
+2020-02-02 18:01:47,572 :INFO : test_formSubmission :first name is Rahul
+2020-02-02 18:01:48,117 :INFO : test_formSubmission :first name is Anshika
+2020-02-02 18:01:48,117 :INFO : test_formSubmission :first name is Anshika
+2020-02-02 18:01:54,765 :INFO : test_e2e :getting all the card titles
+2020-02-02 18:01:54,798 :INFO : test_e2e :iphone X
+2020-02-02 18:01:54,813 :INFO : test_e2e :Samsung Note 8
+2020-02-02 18:01:54,828 :INFO : test_e2e :Nokia Edge
+2020-02-02 18:01:54,842 :INFO : test_e2e :Blackberry
+2020-02-02 18:01:55,055 :INFO : test_e2e :Entering country name as ind
+2020-02-02 18:02:00,725 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-02-03 12:50:15,321 :INFO : test_formSubmission :first name is Rahul
+2020-02-03 12:50:16,175 :INFO : test_formSubmission :first name is Anshika
+2020-02-03 12:50:16,175 :INFO : test_formSubmission :first name is Anshika
+2020-02-03 12:50:29,717 :INFO : test_e2e :getting all the card titles
+2020-02-03 12:50:29,765 :INFO : test_e2e :iphone X
+2020-02-03 12:50:29,789 :INFO : test_e2e :Samsung Note 8
+2020-02-03 12:50:29,809 :INFO : test_e2e :Nokia Edge
+2020-02-03 12:50:29,821 :INFO : test_e2e :Blackberry
+2020-02-03 12:50:30,005 :INFO : test_e2e :Entering country name as ind
+2020-02-03 12:50:35,784 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-02-03 12:51:51,567 :INFO : test_formSubmission :first name is Rahul
+2020-02-03 12:51:51,975 :INFO : test_formSubmission :first name is Anshika
+2020-02-03 12:51:51,975 :INFO : test_formSubmission :first name is Anshika
+2020-02-03 12:52:07,076 :INFO : test_e2e :getting all the card titles
+2020-02-03 12:52:07,111 :INFO : test_e2e :iphone X
+2020-02-03 12:52:07,127 :INFO : test_e2e :Samsung Note 8
+2020-02-03 12:52:07,143 :INFO : test_e2e :Nokia Edge
+2020-02-03 12:52:07,155 :INFO : test_e2e :Blackberry
+2020-02-03 12:52:07,688 :INFO : test_e2e :Entering country name as ind
+2020-02-03 12:52:13,738 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
